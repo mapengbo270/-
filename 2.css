@@ -1,0 +1,36 @@
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>袋鼠网站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+		<img src="图片/tupian.1.jpg" alt="A kangaeoo image" title="marsupial"/>
+        <h1>欢迎来到袋鼠网站</h1>
+        <p>袋鼠是一种澳大利亚特有的哺乳动物，它们以跳跃的方式移动，并以其独特的尾巴而闻名。</p>
+    </div>
+</body>
+</html>
